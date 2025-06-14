@@ -15,11 +15,7 @@ A simple and elegant To-Do List application built with **React**. This app allow
 
 ---
 
-## 📸 Screenshot
 
-![Screenshot](./screenshot.png) <!-- Optional: Upload and add screenshot -->
-
----
 
 ## 🔧 Installation & Run Locally
 
